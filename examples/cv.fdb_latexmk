@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1709243837 "/home/enigma/repos/Awesome-CV/examples/cv.tex" "cv.pdf" "cv" 1709243837 2
+["pdflatex"] 1709243878 "/home/enigma/repos/Awesome-CV/examples/cv.tex" "cv.pdf" "cv" 1709243879 2
   "/etc/texmf/web2c/texmf.cnf" 1688396872 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/enigma/repos/Awesome-CV/examples/cv.tex" 1709243836 3682 13afc2eb1252c76800c3e1ad7d413da9 ""
+  "/home/enigma/repos/Awesome-CV/examples/cv.tex" 1709243878 3684 e2f1db9a397ba56d4fd6a777e9964a9e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -35,8 +35,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698695933 6475485 683f8aa6f3cb086d1f63820ed13a5f8c ""
   "awesome-cv.cls" 1709243432 29600 8d40609025f93862de82a3e783397186 ""
-  "cv.aux" 1709243837 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "cv.tex" 1709243836 3682 13afc2eb1252c76800c3e1ad7d413da9 ""
+  "cv.aux" 1709243878 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv.tex" 1709243878 3684 e2f1db9a397ba56d4fd6a777e9964a9e ""
   (generated)
   "cv.aux"
   "cv.log"
